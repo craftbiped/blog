@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Перейти на сайт CraftBiped
+title: Наш веб-сайт
 permalink: /cbofficial
 ---
 
