@@ -4,4 +4,6 @@ title: Официальный сайт CraftBiped
 permalink: /cbofficial
 ---
 
-# [Перейти на официальный сайт CraftBiped](https://craftbiped.github.io)
+
+
+<meta http-equiv="refresh" content="0;URL=http://craftbiped.github.io"/>
