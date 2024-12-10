@@ -21,7 +21,7 @@
 title: CraftBiped Блог
 
 description: >- # this means to ignore newlines until "baseurl:"
-  Это официальный блог Майнкрафт сервера CraftBiped! Тут мы публикуем наши главные новости, различные посты и т.д. Блог запущен на Jekyll, для удобства публикации новых постов. Наш официальный сайт находится по URL <a href="https://craftbiped.github.io">craftbiped.github.io</a>
+  © CraftBiped, 2023—2024
 baseurl: "/blog/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
