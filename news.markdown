@@ -10,7 +10,7 @@ permalink: /news/
   <li><a name="{{ category | first }}">{{ category | first }}</a>
     <ul>
     {% for post in category.last %}
-      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+      <li><a href="/blog/{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
     </ul>
   </li>
