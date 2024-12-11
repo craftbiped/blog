@@ -5,13 +5,11 @@ permalink: /news/
 ---
 
 
-<ul>
-{% for category in site.categories.news %}
-    <ul>
-    {% for post in category.last %}
-      <li><a href="/blog{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-    </ul>
-  </li>
+{% for post in site.categories.news %}
+<span class="post-meta">{{ post.date }}</span>
+        <h3>
+          <a class="post-link" href="/blog{{ post.url }}">
+            {{ post.title }}
+          </a>
+        </h3></span>
 {% endfor %}
-</ul>
