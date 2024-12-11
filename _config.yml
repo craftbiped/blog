@@ -27,7 +27,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 timezone: UTC+3
 
 # Build settings
-theme: minima
+theme: jekyll
 plugins:
   - jekyll-feed
 
