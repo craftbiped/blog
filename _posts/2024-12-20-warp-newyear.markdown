@@ -17,5 +17,5 @@ categories: news
 ![изображение](https://github.com/user-attachments/assets/eb2e2ac8-57f8-4396-b580-d88ed61ae33d)
 
 
-# С НАСТУПАЮЩИМ!
+# С НАСТУПАЮЩИМ!!!
 ![изображение](https://github.com/user-attachments/assets/351a15a3-cec9-4b7b-8781-3f64fc503b20)
