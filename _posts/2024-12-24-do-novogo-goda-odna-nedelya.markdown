@@ -7,5 +7,5 @@ categories: news
 # До нового года осталась неделя!!!
 Вот так вот быстро и пролетел 2024 год.
 Да, в июне 2024 наш сервер был закрыт и был запущен только в конце ноября. Я просто напросто устал, однако, потом у меня появились силы и я снова открыл сервер.
-Отчёт до 2025 года: [https://craftbiped.github.io/expectations/newyear](https://craftbiped.github.io/expectations/newyear)
+Отчёт до нового 2025 года: [https://craftbiped.github.io/expectations/newyear](https://craftbiped.github.io/expectations/newyear)
 
