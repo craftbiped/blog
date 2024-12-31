@@ -21,7 +21,7 @@
 title: CraftBiped Блог
 
 description: >- # this means to ignore newlines until "baseurl:"
- CraftBiped Блог - это официальный блог майнкрафт сервера CraftBiped. Тут мы публикуем наши главные новости, различные посты и т.д.  © CraftBipedMC, 2023—2024
+ CraftBiped Блог - это официальный блог майнкрафт сервера CraftBiped. Тут мы публикуем наши главные новости, различные посты и т.д.  © CraftBipedMC, 2023—2025
 baseurl: "/blog/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 timezone: UTC+3
