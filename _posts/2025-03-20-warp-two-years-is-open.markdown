@@ -5,3 +5,5 @@ date:   2025-03-20 22:26:00 +0300
 categories: news
 ---
 Варп в честь 2-х летия сервера был открыт! Чтобы телепортироваться на него, введите /warp 2years.
+![Варп](https://github.com/user-attachments/assets/c9b04df8-75fa-4141-9c50-d8900eeab546)
+
