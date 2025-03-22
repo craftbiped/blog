@@ -2,7 +2,7 @@
 layout: post
 title:  "Блог CraftBiped был запущен"
 date:   2024-12-10 21:52:37 +0300
-categories: cbservices
+categories: offtop
 ---
 # Здравствуйте, уважамые игроки CraftBiped!
 ## Начиная с 10 декабря 2024 года у нас есть свой блог! Вы прямо сейчас на нём и находитесь!
