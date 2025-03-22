@@ -4,7 +4,6 @@ title: Оффтоп
 permalink: /offtop/
 ---
 
-Публикации, не связанные с проектом.
 
 {% for post in site.categories.offtop %}
 <span class="post-meta">{{ post.date | date: '%b %d, %Y' }}</span>
