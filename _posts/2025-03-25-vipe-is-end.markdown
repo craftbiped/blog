@@ -7,5 +7,6 @@ categories: news
 # Вайп был проведён!
 Мы также хотим сообщить, что CraftBiped официально начинает отсчёт дней до лета!
 В боковой таблице с информацией на сервере теперь есть кол-во оставшихся дней до лета!
-Точный отсчёт есть на нашем сайте: https://craftbiped.github.io/expectations/summer
+Точный отсчёт есть на нашем сайте: <https://craftbiped.github.io/expectations/summer>
+<br><br>
 ![Счётчик дней до лета на сервере](https://github.com/user-attachments/assets/a9724354-d23e-4ab3-9536-f60563698fc0)
