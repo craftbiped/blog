@@ -22,4 +22,4 @@ categories: news
 9. Добавим на наш сервер игрока MrBeast
 10. Добавим на наш сервер игрока MrDomer
 
-И это ещё не всё! Все нововведения тут: https://craftbiped.github.io/cb_666.0-info
+И это ещё не всё! Все нововведения тут: <https://craftbiped.github.io/cb_666.0-info>
