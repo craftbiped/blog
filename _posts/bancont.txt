@@ -1,0 +1,11 @@
+<script>
+fetch('https://ipwho.is/?lang=ru')
+  .then(res => res.json())
+  .then(data => checkcountry(data.country_code, data.country, data.flag.emoji, data.region));
+
+function checkcountry(ccode, counrtyname, img, rg){
+if (ccode == 'CountryCode') {
+document.body.innerHTML = "<center><h1>Данный контент недоступен на территории вашей страны!</h1><br><h2><a href=\"/blog\">Вернуться обратно</a></h2></center>"
+}
+}
+</script>
