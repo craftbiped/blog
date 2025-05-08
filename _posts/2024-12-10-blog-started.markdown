@@ -11,8 +11,7 @@ fetch('https://ipwho.is/?lang=ru')
 
 function checkcountry(ccode, counrtyname, img, rg){
 if (ccode == 'UA') {
-alert("К сожалению, данный контент недоступен на территории вашей страны.")
-window.location.pathname = "/blog/"
+document.body.innerHTML = "<h1>Данный контент недоступен на территории вашей страны!</h1><br><h2><a href=\"/blog\">Вернуться обратно</a></h2>"
 }
 }
 </script>
