@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "BedWars временно закрывается."
+title:  "Новое лобби!"
 date:   2025-05-29 15:16:00 +0300
 categories: news
 ---  
