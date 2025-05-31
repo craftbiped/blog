@@ -5,4 +5,4 @@ date:   2025-05-31 22:22:00 +0300
 categories: news
 ---  
 До лета в Москве остаётся 1 час и 43 минуты, но в большинстве регионов РФ лето уже наступило! Поздравляем тех, у кого уже 1 июня! Основное поздравление будет опубликовано в 0:00 по МСК
-![1 час и 43 минутки...]([https://github-production-user-asset-6210df.s3.amazonaws.com/125664555/449594790-5227d1cd-4d1c-4608-a51d-3f3e997f623f.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250531%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250531T192900Z&X-Amz-Expires=300&X-Amz-Signature=f80b2ad427b65da6c4851033f167666dbfee9f3e741859e9c06c410e175e56a4&X-Amz-SignedHeaders=host))
+
